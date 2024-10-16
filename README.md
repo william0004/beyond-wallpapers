@@ -1,5 +1,5 @@
 # Project Name
-Breadcrumbsbeyond-wallpapers
+Beyond-wallpapers
 
 ## Overview
 Final project for CSC 581 Software Engineering
