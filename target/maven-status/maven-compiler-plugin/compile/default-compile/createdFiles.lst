@@ -1,0 +1,9 @@
+com\example\html\demo\Initializer\UserInitializer.class
+com\example\html\demo\model\User.class
+com\example\html\demo\controller\IndexController.class
+com\example\html\demo\controller\ProfileController.class
+com\example\html\demo\service\UserService.class
+com\example\html\demo\repository\UserRepository.class
+com\example\html\demo\DemoApplication.class
+com\example\html\demo\controller\CollectionController.class
+com\example\html\demo\controller\HomeController.class
